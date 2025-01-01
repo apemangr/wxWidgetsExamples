@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/A simple button/wx.rc
+windows.h
+-
+wx/msw/rcdefs.h
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/A simple button/wx/msw/rcdefs.h
+
+C:/msys64/mingw64/lib/wx/include/msw-unicode-3.2/wx/msw/rcdefs.h
+

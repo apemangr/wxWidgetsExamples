@@ -1,0 +1,3 @@
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/A simple button/build/CMakeFiles/Button.dir
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/A simple button/build/CMakeFiles/edit_cache.dir
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/A simple button/build/CMakeFiles/rebuild_cache.dir

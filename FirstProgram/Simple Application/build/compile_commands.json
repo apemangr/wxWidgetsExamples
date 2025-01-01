@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMSW__ @CMakeFiles/Likan.dir/includes_CXX.rsp -DwxUSE_DPI_AWARE_MANIFEST=2 -o CMakeFiles\\Likan.dir\\main.cpp.obj -c C:\\Users\\apemangr\\Desktop\\wxWidgetsExamples\\FirstProgram\\main.cpp",
+  "file": "C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/main.cpp",
+  "output": "CMakeFiles/Likan.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMSW__ @CMakeFiles/Likan.dir/includes_CXX.rsp -DwxUSE_DPI_AWARE_MANIFEST=2 -o CMakeFiles\\Likan.dir\\simple.cpp.obj -c C:\\Users\\apemangr\\Desktop\\wxWidgetsExamples\\FirstProgram\\simple.cpp",
+  "file": "C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/simple.cpp",
+  "output": "CMakeFiles/Likan.dir/simple.cpp.obj"
+}
+]

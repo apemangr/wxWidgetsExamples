@@ -1,0 +1,3 @@
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/build/CMakeFiles/Likan.dir
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/build/CMakeFiles/edit_cache.dir
+C:/Users/apemangr/Desktop/wxWidgetsExamples/FirstProgram/build/CMakeFiles/rebuild_cache.dir
